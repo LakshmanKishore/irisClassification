@@ -15,7 +15,6 @@ def Home():
 def predict():
     if request.method == 'POST':
         data=request.form.to_dict()
-        print(data)
         prediction = model.predict([[float(data["sl"]),float(data["sw"]),float(data["pl"]),float(data["pw"])]])
         classes = ["SETOSA","VERSICOLOR","VIRGINICA"]
         answer = classes[int(prediction)]
