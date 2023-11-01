@@ -11,6 +11,7 @@ body {
     width: 200px;
 }
 
-.predictionImage {
-    max-width: 300px;
+#iris_image {
+    height: 200px;
+    width: 200px;
 }
