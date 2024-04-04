@@ -23,3 +23,6 @@ Here are some related projects
 * [Color Name Prediction](https://github.com/LakshmanKishore/colorNamePrediction)
 * [Loan Prediction](https://github.com/LakshmanKishore/loanPrediction)
 ## You can watch the code live [here](https://lakshmankishore.github.io/irisClassification/)
+
+
+## Learn more about the project in my [blog post](https://lakshman007bff.hashnode.dev/deploying-iris-classification-model-with-xgboost-free-instant-updates-with-pyscript-deployment).
